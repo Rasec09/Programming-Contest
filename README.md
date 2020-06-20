@@ -1,2 +1,2 @@
 # Programming-Contest
-Solutions of my programming contests in which I participate officially or practice.
+Solutions of my programming contests in which i participate officially or practice.
